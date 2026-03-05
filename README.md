@@ -27,14 +27,14 @@ I'm an AI developer driven to build scalable, user-centric applications that bri
 
 <div align="center">
 
-<a href="https://github.com/LakshmanTurlapati/Review-Gate"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Review-Gate&theme=dark&hide_border=true" alt="Review-Gate" /></a>
-<a href="https://github.com/LakshmanTurlapati/FSB"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=FSB&theme=dark&hide_border=true" alt="FSB" /></a>
+<a href="https://github.com/LakshmanTurlapati/Review-Gate"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Review-Gate&theme=github_dark&hide_border=true" alt="Review-Gate" /></a>
+<a href="https://github.com/LakshmanTurlapati/FSB"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=FSB&theme=github_dark&hide_border=true" alt="FSB" /></a>
 
-<a href="https://github.com/LakshmanTurlapati/Cmd-K"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Cmd-K&theme=dark&hide_border=true" alt="Cmd-K" /></a>
-<a href="https://github.com/LakshmanTurlapati/ProKeys"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=ProKeys&theme=dark&hide_border=true" alt="ProKeys" /></a>
+<a href="https://github.com/LakshmanTurlapati/Cmd-K"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Cmd-K&theme=github_dark&hide_border=true" alt="Cmd-K" /></a>
+<a href="https://github.com/LakshmanTurlapati/ProKeys"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=ProKeys&theme=github_dark&hide_border=true" alt="ProKeys" /></a>
 
-<a href="https://github.com/LakshmanTurlapati/Software-3.0"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Software-3.0&theme=dark&hide_border=true" alt="Software-3.0" /></a>
-<a href="https://github.com/LakshmanTurlapati/t2s-cli"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=t2s-cli&theme=dark&hide_border=true" alt="t2s-cli" /></a>
+<a href="https://github.com/LakshmanTurlapati/Software-3.0"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Software-3.0&theme=github_dark&hide_border=true" alt="Software-3.0" /></a>
+<a href="https://github.com/LakshmanTurlapati/t2s-cli"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=t2s-cli&theme=github_dark&hide_border=true" alt="t2s-cli" /></a>
 
 </div>
 
@@ -77,10 +77,10 @@ I'm an AI developer driven to build scalable, user-centric applications that bri
 ## GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LakshmanTurlapati&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&line_height=21" alt="Lakshman Turlapati's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LakshmanTurlapati&layout=compact&theme=dark&hide_border=true&hide_title=true&langs_count=6" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LakshmanTurlapati&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&line_height=21" alt="Lakshman Turlapati's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LakshmanTurlapati&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmanTurlapati&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmanTurlapati&theme=github_dark&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshmanTurlapati&theme=github_dark" alt="Profile Details" />
   <br>
