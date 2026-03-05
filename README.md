@@ -86,8 +86,6 @@ I'm an AI developer driven to build scalable, user-centric applications that bri
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LakshmanTurlapati&theme=github_dark&utcOffset=-6" alt="Productive Time" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshmanTurlapati&theme=github_dark" alt="Stats" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LakshmanTurlapati&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br>
