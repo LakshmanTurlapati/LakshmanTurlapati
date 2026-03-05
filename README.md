@@ -108,9 +108,6 @@ I'm an AI developer driven to build scalable, user-centric applications that bri
   <img alt="github-snake" src="https://raw.githubusercontent.com/LakshmanTurlapati/LakshmanTurlapati/output/github-snake-dark.svg" />
 </picture>
 
-<br>
-
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%" />
 
 </div>
 
