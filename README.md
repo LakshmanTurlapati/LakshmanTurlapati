@@ -22,30 +22,6 @@ Enthusiastic applied AI developer who loves to solve problems and build and ship
 
 <br>
 
-## My Tech Stack
-
-<div align="center">
-
-**AI & Machine Learning**
-<br>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI Tools" />
-
-<br>
-
-**Cloud & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git&theme=dark" alt="Cloud & DevOps" />
-
-<br>
-
-**Full Stack Development**
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,flutter,rust,django&theme=dark" alt="Full Stack" />
-
-</div>
-
-<br>
-
 ## GitHub Stats
 
 <div align="center">
