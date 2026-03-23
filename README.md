@@ -13,30 +13,12 @@
 
 ### Hi there, I'm Lakshman!
 
-I'm an AI developer driven to build scalable, user-centric applications that bridge the gap between technology and human needs. My journey began in full-stack development at **Church & Dwight** (2022-2024) and took a sharp turn into AI after a transformative experience at TAMUHack. Now, my passion is creating intelligent, multi-agentic systems and developer tools that are both powerful and intuitive.
+Enthusiastic applied AI developer who loves to solve problems and build and ship at a lightning fast pace. I started in full stack at **Church & Dwight**, pivoted to AI after TAMUHack, and never looked back. I hold an **MS in IT & Management from UT Dallas** (Dean's Impact Scholar, 3.9 GPA) and focus on multi-agentic systems and developer tooling.
 
-- <img src="https://img.shields.io/badge/Building-555555?style=flat-square&logo=googlegemini&logoColor=white" height="18"/> I'm currently building **open-source AI tools** -- building what matters!
-- <img src="https://img.shields.io/badge/Shipped-444444?style=flat-square&logo=rocket.chat&logoColor=white" height="18"/> My project, **Review-Gate**, hit **1,528+ GitHub stars** and 167 forks!
-- <img src="https://img.shields.io/badge/Certified-666666?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> I'm **2x AWS Certified** and an **AWS Cloud Captain**, one of ~100 selected globally each year.
-- <img src="https://img.shields.io/badge/Studying-555555?style=flat-square&logo=bookstack&logoColor=white" height="18"/> I'm pursuing my **MS in IT & Management** at **UT Dallas** ('26), where I'm also a **Dean's Impact Scholar** with a 3.9 GPA.
+- <img src="https://img.shields.io/badge/Building-555555?style=flat-square&logo=googlegemini&logoColor=white" height="18"/> Currently building **open-source AI tools** that matter!
+- <img src="https://img.shields.io/badge/Shipped-444444?style=flat-square&logo=rocket.chat&logoColor=white" height="18"/> **Review Gate** hit **1,528+ GitHub stars** and 167 forks!
+- <img src="https://img.shields.io/badge/Certified-666666?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> **2x AWS Certified** and **AWS Cloud Captain** (one of ~100 selected globally each year).
 - <img src="https://img.shields.io/badge/Connect-444444?style=flat-square&logo=linkedin&logoColor=white" height="18"/> Let's connect and build tech that matters!
-
-<br>
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/LakshmanTurlapati/Review-Gate"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Review-Gate&theme=github_dark&hide_border=true" alt="Review-Gate" /></a>
-<a href="https://github.com/LakshmanTurlapati/FSB"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=FSB&theme=github_dark&hide_border=true" alt="FSB" /></a>
-
-<a href="https://github.com/LakshmanTurlapati/Cmd-K"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Cmd-K&theme=github_dark&hide_border=true" alt="Cmd-K" /></a>
-<a href="https://github.com/LakshmanTurlapati/ProKeys"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=ProKeys&theme=github_dark&hide_border=true" alt="ProKeys" /></a>
-
-<a href="https://github.com/LakshmanTurlapati/Software-3.0"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=Software-3.0&theme=github_dark&hide_border=true" alt="Software-3.0" /></a>
-<a href="https://github.com/LakshmanTurlapati/t2s-cli"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LakshmanTurlapati&repo=t2s-cli&theme=github_dark&hide_border=true" alt="t2s-cli" /></a>
-
-</div>
 
 <br>
 
@@ -56,19 +38,9 @@ I'm an AI developer driven to build scalable, user-centric applications that bri
 
 <br>
 
-**Full-Stack Development**
+**Full Stack Development**
 <br>
-<img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,flutter,rust,django&theme=dark" alt="Full-Stack" />
-
-</div>
-
-<br>
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LakshmanTurlapati&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+<img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,flutter,rust,django&theme=dark" alt="Full Stack" />
 
 </div>
 
@@ -98,23 +70,8 @@ I'm an AI developer driven to build scalable, user-centric applications that bri
 
 <br>
 
-## Contribution Graph
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LakshmanTurlapati/LakshmanTurlapati/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LakshmanTurlapati/LakshmanTurlapati/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/LakshmanTurlapati/LakshmanTurlapati/output/github-snake-dark.svg" />
-</picture>
-
-
-</div>
-
-<br>
-
-<div align="center">
-  <sub>From full-stack to AI -- challenging the status quo, one line of code at a time.</sub>
+  <sub>From full stack to AI, challenging the status quo, one line of code at a time.</sub>
   <br>
   <img src="https://komarev.com/ghpvc/?username=LakshmanTurlapati&style=flat&color=grey" alt="Profile views">
 </div>
