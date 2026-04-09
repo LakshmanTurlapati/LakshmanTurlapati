@@ -41,8 +41,10 @@ Enthusiastic applied AI developer who loves to solve problems and build and ship
   <tr>
     <td valign="top" width="50%">
       <img src="./metrics-languages.svg" width="100%" alt="Languages" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LakshmanTurlapati&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&line_height=21&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LakshmanTurlapati&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" width="49%" alt="Top Languages" />
+      <br>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LakshmanTurlapati&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true&line_height=21&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff" width="100%" alt="GitHub Stats" />
+      <br>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LakshmanTurlapati&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" width="100%" alt="Top Languages" />
     </td>
     <td valign="top" width="50%">
       <img src="./radar-chart.svg" width="100%" alt="Contribution Radar" />
