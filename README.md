@@ -40,12 +40,21 @@ Enthusiastic applied AI developer who loves to solve problems and build and ship
 
 ## Activity Insights
 
-<div align="center">
-  <img src="./metrics-languages.svg" width="49%" alt="Languages" />
-  <img src="./radar-chart.svg" width="49%" alt="Contribution Radar" />
-  <br>
-  <img src="./metrics-isocalendar.svg" width="100%" alt="Isometric Commit Calendar" />
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./metrics-languages.svg" width="100%" alt="Languages" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="./radar-chart.svg" width="100%" alt="Contribution Radar" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./metrics-isocalendar.svg" width="100%" alt="Isometric Commit Calendar" />
+    </td>
+  </tr>
+</table>
 
 <br>
 

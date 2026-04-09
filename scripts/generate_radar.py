@@ -2,6 +2,7 @@
 """Generate a GitHub contribution radar chart SVG using pygal."""
 
 import json
+import math
 import os
 import urllib.request
 
@@ -62,8 +63,11 @@ def generate_radar(data):
         cc["totalRepositoriesWithContributedCommits"],
     ]
 
-    max_val = max(values) if max(values) > 0 else 1
-    normalized = [round((v / max_val) * 100, 1) for v in values]
+    # Log normalization to prevent commits from dominating the chart
+    max_log = math.log(max(values) + 1) if max(values) > 0 else 1
+    normalized = [round(math.log(v + 1) / max_log * 100, 1) for v in values]
+    # Floor at 10 so even small values are visible on the radar
+    normalized = [max(n, 10) if v > 0 else 0 for n, v in zip(normalized, values)]
 
     dark_style = Style(
         background="#0d1117",
