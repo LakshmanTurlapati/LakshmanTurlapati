@@ -62,10 +62,11 @@ jobs:
           GITHUB_USER: LakshmanTurlapati
         run: python scripts/generate_radar.py
 
-      - name: Commit all generated SVGs
+      - name: Commit radar chart
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add metrics-languages.svg metrics-isocalendar.svg radar-chart.svg
-          git diff --staged --quiet || git commit -m "Update profile metrics - [Skip GitHub Action]"
+          git pull --rebase
+          git add radar-chart.svg
+          git diff --staged --quiet || git commit -m "Update radar-chart.svg - [Skip GitHub Action]"
           git push
