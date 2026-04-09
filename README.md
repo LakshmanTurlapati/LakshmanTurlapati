@@ -13,12 +13,12 @@
 
 ### Hi there, I'm Lakshman!
 
-Enthusiastic applied AI developer who loves to solve problems and build and ship at a lightning fast pace. I started in full stack at **Church & Dwight**, pivoted to AI after TAMUHack, and never looked back. I hold an **MS in IT & Management from UT Dallas** (Dean's Impact Scholar, 3.9 GPA) and focus on multi-agentic systems and developer tooling.
+Builder at heart, assembled my first PC at 10, shipped gaming rigs as a side hustle, and never stopped. I went from full stack at **Church & Dwight** to all in on AI after one weekend rewired my brain. Now I'm an **AI Software Engineer at InfiniteChoice**, shipping open source AI tools with **70+ repos** across Python, TypeScript, Rust, and Dart. **MS in IT & Management from UT Dallas**, Dean's Impact Scholar, 3.9 GPA.
 
-- <img src="https://img.shields.io/badge/Building-555555?style=flat-square&logo=googlegemini&logoColor=white" height="18"/> Currently building **open-source AI tools** that matter!
-- <img src="https://img.shields.io/badge/Shipped-444444?style=flat-square&logo=rocket.chat&logoColor=white" height="18"/> **Review Gate** hit **1,528+ GitHub stars** and 167 forks!
-- <img src="https://img.shields.io/badge/Certified-666666?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> **2x AWS Certified** and **AWS Cloud Captain** (one of ~100 selected globally each year).
-- <img src="https://img.shields.io/badge/Connect-444444?style=flat-square&logo=linkedin&logoColor=white" height="18"/> Let's connect and build tech that matters!
+- <img src="https://img.shields.io/badge/Shipped-555555?style=flat-square&logo=rocket.chat&logoColor=white" height="18"/> **Review Gate** hit **1,538+ GitHub stars**, pioneered interactive AI checkpoints for Cursor IDE
+- <img src="https://img.shields.io/badge/Certified-666666?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> **2x AWS Certified** · **AWS Cloud Captain** (one of ~100 selected globally each year)
+- <img src="https://img.shields.io/badge/Building-555555?style=flat-square&logo=googlegemini&logoColor=white" height="18"/> Also shipping: **FSB** (AI browser automation), **Cmd K** (Rust terminal AI), **t2s cli** (local Text to SQL)
+- <img src="https://img.shields.io/badge/Connect-444444?style=flat-square&logo=linkedin&logoColor=white" height="18"/> Open source is how I think, PRs welcome, let's build together
 
 <br>
 
