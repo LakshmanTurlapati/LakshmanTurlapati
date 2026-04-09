@@ -41,7 +41,10 @@ Enthusiastic applied AI developer who loves to solve problems and build and ship
 ## Activity Insights
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./metrics-languages.svg" width="49%" alt="Languages" />
+  <img src="./radar-chart.svg" width="49%" alt="Contribution Radar" />
+  <br>
+  <img src="./metrics-isocalendar.svg" width="100%" alt="Isometric Commit Calendar" />
 </div>
 
 <br>
