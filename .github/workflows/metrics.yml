@@ -66,7 +66,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git stash -- radar-chart.svg
           git pull --rebase
+          git stash pop
           git add radar-chart.svg
           git diff --staged --quiet || git commit -m "Update radar-chart.svg - [Skip GitHub Action]"
           git push
