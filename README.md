@@ -45,7 +45,7 @@ Builder at heart, assembled my first PC at 10, shipped gaming rigs as a side hus
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LakshmanTurlapati&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=6&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff" width="100%" alt="Top Languages" />
     </td>
     <td valign="top" width="50%">
-      <img src="./radar-chart.svg" width="100%" alt="Contribution Radar" />
+      <img src="./radar-chart.svg" width="100%" alt="Contribution Radar Score" />
     </td>
   </tr>
   <tr>
