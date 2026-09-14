@@ -13,7 +13,7 @@
 
 ### Hi there, I'm Lakshman!
 
-Builder at heart, assembled my first PC at 10, shipped gaming rigs as a side hustle, and never stopped. I went from full stack at **Church & Dwight** to all in on AI after one weekend rewired my brain. Now I'm an **AI Software Engineer at InfiniteChoice**, shipping open source AI tools with **70+ repos** across Python, TypeScript, Rust, and Dart. **MS in IT & Management from UT Dallas**, Dean's Impact Scholar, 3.9 GPA.
+Builder at heart, assembled my first PC at 10, shipped gaming rigs as a side hustle, and never stopped. I went from full stack at **Church & Dwight** to all in on AI after one weekend rewired my brain. Currently building **Voyza**, shipping open source AI tools with **70+ repos** across Python, TypeScript, Rust, and Dart. **MS in IT & Management from UT Dallas**, Dean's Impact Scholar, 3.9 GPA.
 
 - <img src="https://img.shields.io/badge/Shipped-555555?style=flat-square&logo=rocket.chat&logoColor=white" height="18"/> **Review Gate** hit **1,538+ GitHub stars**, pioneered interactive AI checkpoints for Cursor IDE
 - <img src="https://img.shields.io/badge/Certified-666666?style=flat-square&logo=amazonaws&logoColor=white" height="18"/> **2x AWS Certified** · **AWS Cloud Captain** (one of ~100 selected globally each year)
